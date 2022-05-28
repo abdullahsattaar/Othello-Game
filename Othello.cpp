@@ -1,7 +1,3 @@
-// Artificial Intelligence 6D Assignement 2 Othello Game
-// 19L-1248 Abdullah Sattar
-// 19L-1243 Raahim Ahmad Khan
-
 #include <iostream>
 #include <stdexcept>
 #include <array>
