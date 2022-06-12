@@ -1,2 +1,4 @@
 # Othello-Game
-Min-Max Algorithm C++ Code
+Artificial Intelligence concepts
+Min-Max Algorithm 
+C++ Code
